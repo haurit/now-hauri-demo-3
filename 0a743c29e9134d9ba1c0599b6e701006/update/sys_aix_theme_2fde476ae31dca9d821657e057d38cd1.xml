@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_theme">
+    <sys_aix_theme action="INSERT_OR_UPDATE">
+        <accent_color>#63DF4E</accent_color>
+        <dark_favicon/>
+        <dark_logo/>
+        <fonts/>
+        <light_favicon/>
+        <light_logo/>
+        <mobile_color_variables/>
+        <name>hauri-demo-3</name>
+        <neutral_swatch display_value="hauri-demo-3-neutral-swatch">3eee112dd38482b308a0126d8996b261</neutral_swatch>
+        <primary_color>#032D42</primary_color>
+        <shape>{"selector_radius":"0.75rem","field_radius":"0.5rem","boxes_radius":"1rem","border_width":"1px"}</shape>
+        <source_aix_project/>
+        <sys_class_name>sys_aix_theme</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-11 14:23:22</sys_created_on>
+        <sys_id>2fde476ae31dca9d821657e057d38cd1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>hauri-demo-3</sys_name>
+        <sys_package display_value="Hauri Demo 3" source="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+        <sys_update_name>sys_aix_theme_2fde476ae31dca9d821657e057d38cd1</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-11 14:23:22</sys_updated_on>
+        <token_overrides/>
+    </sys_aix_theme>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_page">
+  <sys_aix_page action="DELETE" apply_defaults="true">
+    <sys_id>232569210197eddb4dff86ff5e2d1af4</sys_id>
+    <sys_scope display_value="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+    <sys_update_name>sys_aix_page_232569210197eddb4dff86ff5e2d1af4</sys_update_name>
+    <css/>
+    <hide_chat>false</hide_chat>
+    <order>100</order>
+    <page_widget>63b1a456598d3baec4d4e2f121c97ec6</page_widget>
+    <path_pattern>/incidents</path_pattern>
+    <roles/>
+    <sys_policy>read</sys_policy>
+    <title>x-snc-hauri-demo-3-incidents-page</title>
+  </sys_aix_page>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</application>
+        <file_path/>
+        <instance_id>164357081b640ad4a43dcb7b234bcb48</instance_id>
+        <instance_name>empthauri</instance_name>
+        <name>sys_aix_page_232569210197eddb4dff86ff5e2d1af4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_page">
+  <sys_aix_page action="INSERT_OR_UPDATE" apply_defaults="true">
+    <sys_id>232569210197eddb4dff86ff5e2d1af4</sys_id>
+    <sys_scope display_value="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+    <sys_update_name>sys_aix_page_232569210197eddb4dff86ff5e2d1af4</sys_update_name>
+    <css/>
+    <hide_chat>false</hide_chat>
+    <order>100</order>
+    <page_widget>63b1a456598d3baec4d4e2f121c97ec6</page_widget>
+    <path_pattern>/incidents</path_pattern>
+    <roles/>
+    <sys_policy>read</sys_policy>
+    <title>x-snc-hauri-demo-3-incidents-page</title>
+  </sys_aix_page>
+</record_update>]]></payload>
+        <payload_hash>-162042191</payload_hash>
+        <record_name>x-snc-hauri-demo-3-incidents-page</record_name>
+        <reverted_from/>
+        <source>2075d017c3d7cb106fca9bcd2b0131a8</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-18 06:30:19</sys_created_on>
+        <sys_id>e875d017c3d7cb106fca9bcd2b0131ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0b33571e60000001</sys_recorded_at>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-18 06:30:19</sys_updated_on>
+        <type>AIX Page</type>
+        <update_guid>6475d01709d7cb1011b50d6bc3d845ca</update_guid>
+        <update_guid_history>6475d01709d7cb1011b50d6bc3d845ca:0,3a4494930cd7cb10b0c9624e3764697d:0,869efd899a1b0310574c52e7dfc6aa4b:-162042191</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-18 09:02:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_aix_page">sys_aix_page</sys_db_object>
+        <sys_id>8528e29d445c49949199270e88902010</sys_id>
+        <sys_metadata>232569210197eddb4dff86ff5e2d1af4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x-snc-hauri-demo-3-incidents-page</sys_name>
+        <sys_package display_value="Hauri Demo 3" source="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+        <sys_scope_delete display_value="">5682ca09fd0d48589194074f24b65aa1</sys_scope_delete>
+        <sys_update_name>sys_aix_page_232569210197eddb4dff86ff5e2d1af4</sys_update_name>
+        <sys_update_version display_value="sys_aix_page_232569210197eddb4dff86ff5e2d1af4">e875d017c3d7cb106fca9bcd2b0131ca</sys_update_version>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-18 09:02:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

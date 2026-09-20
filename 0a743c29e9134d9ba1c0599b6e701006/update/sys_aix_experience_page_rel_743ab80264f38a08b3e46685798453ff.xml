@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_experience_page_rel">
+    <sys_aix_experience_page_rel action="INSERT_OR_UPDATE">
+        <experience display_value="Hauri Demo 3">c08257ee85bed6e37f91aed8964977b0</experience>
+        <page display_value="x-snc-hauri-demo-3-terminal-page">da0715cd5c8e7d84eee77622afa0df4f</page>
+        <source_aix_project/>
+        <sys_class_name>sys_aix_experience_page_rel</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-11 14:23:22</sys_created_on>
+        <sys_id>743ab80264f38a08b3e46685798453ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Hauri Demo 3" source="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+        <sys_update_name>sys_aix_experience_page_rel_743ab80264f38a08b3e46685798453ff</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-11 14:23:22</sys_updated_on>
+    </sys_aix_experience_page_rel>
+</record_update>

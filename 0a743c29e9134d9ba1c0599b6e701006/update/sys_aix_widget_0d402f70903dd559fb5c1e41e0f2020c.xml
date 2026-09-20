@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_widget">
+    <sys_aix_widget action="INSERT_OR_UPDATE">
+        <best_for/>
+        <category>internal</category>
+        <chat_compatible>false</chat_compatible>
+        <client_tools/>
+        <component><![CDATA[import{css as s,html as e}from"lit";import{customElement as r}from"lit/decorators.js";import{AIUXElement as t}from"/aiux/assets/core/core.js";import"/aiux/shared/widgets/x_snc_hauri_demo_3/aiux-dos-shell.js";class a extends t{static{this.styles=s`
+    :host {
+      display: contents;
+    }
+  `}render(){return e`<aiux-dos-shell></aiux-dos-shell>`}}r("x-snc-hauri-demo-3-terminal-page")(a);export{a as default};
+//# sourceMappingURL=page-CZn_zpaE.js.map
+]]></component>
+        <component_compile_metadata>{"asset":"terminal\\page-CZn_zpaE.js","standalone_widget_deps":[{"tag":"aiux-dos-shell","scope":"x_snc_hauri_demo_3"}]}</component_compile_metadata>
+        <demo_data/>
+        <dependent_widget_ids/>
+        <description/>
+        <has_loader>false</has_loader>
+        <id>x-snc-hauri-demo-3-terminal-page</id>
+        <input_schema/>
+        <interactive_view_compatible>false</interactive_view_compatible>
+        <isolate_compile_metadata>{"asset":"isolate/pages/terminal\\page.js","source":"!function(s,l,t){\"use strict\";class e extends t.AIUXElement{static{this.styles=s.css`\n    :host {\n      display: contents;\n    }\n  `}render(){return s.html`&lt;aiux-dos-shell&gt;&lt;/aiux-dos-shell&gt;`}}l.customElement(\"x-snc-hauri-demo-3-terminal-page\")(e)}(globalThis.__lit,globalThis.__lit,globalThis.__aiuxCore);\n","hash":"f7129ab629d19b02"}</isolate_compile_metadata>
+        <name>x-snc-hauri-demo-3-terminal-page</name>
+        <purpose>page</purpose>
+        <required_plugins>[]</required_plugins>
+        <required_sys_properties>[]</required_sys_properties>
+        <required_translations>[]</required_translations>
+        <required_user_preferences>[]</required_user_preferences>
+        <roles/>
+        <script><![CDATA[(function(data, options, input) {
+  
+})(data, options, input);]]></script>
+        <servicenow>false</servicenow>
+        <simple_widget>false</simple_widget>
+        <source_aix_project/>
+        <source_browser_code/>
+        <sourcemap>{"version":3,"file":"page-CZn_zpaE.js","sources":["../../../pages/terminal/page.js"],"sourcesContent":["import {html, css} from 'lit';\nimport {customElement} from 'lit/decorators.js';\nimport {AIUXElement} from '@servicenow/aiux/aiux-components-core';\nimport '../../widgets/aiux-dos-shell/index.js';\n\n@customElement('x-snc-hauri-demo-3-terminal-page')\nexport default class TerminalPage extends AIUXElement {\n  static styles = css`\n    :host {\n      display: contents;\n    }\n  `;\n\n  render() {\n    return html`&lt;aiux-dos-shell&gt;&lt;/aiux-dos-shell&gt;`;\n  } // render\n} // class TerminalPage\n"],"names":["TerminalPage","styles","css","render","html"],"mappings":"+MAMA,OAAAA,UAAqBA,SACZC,IAAAA,CAAAA,MAAAA,CAASC,CAAG,CAAA;;;;EAInB,CAAC,CAEDC,QAAS,CACP,OAAOC,CAAI,CAAC,iCAAiC,CAAC,AAChD,CACF"}</sourcemap>
+        <sys_class_name>sys_aix_widget</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-18 06:30:19</sys_created_on>
+        <sys_id>0d402f70903dd559fb5c1e41e0f2020c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x-snc-hauri-demo-3-terminal-page</sys_name>
+        <sys_package display_value="Hauri Demo 3" source="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+        <sys_update_name>sys_aix_widget_0d402f70903dd559fb5c1e41e0f2020c</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-18 06:30:19</sys_updated_on>
+        <template/>
+        <template_translations/>
+        <type/>
+    </sys_aix_widget>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d402f70903dd559fb5c1e41e0f2020c"/>
+</record_update>
