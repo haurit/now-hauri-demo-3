@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aix_experience">
+    <sys_aix_experience action="INSERT_OR_UPDATE">
+        <app_shell/>
+        <content_hash>e0ae5aab295bdad5</content_hash>
+        <landing_path>/terminal</landing_path>
+        <layout/>
+        <lifecycle_module display_value="">53d29e2fe95b5180c640ffa5c9f7ca92</lifecycle_module>
+        <source_aix_project/>
+        <sys_class_name>sys_aix_experience</sys_class_name>
+        <sys_created_by>tom.hauri</sys_created_by>
+        <sys_created_on>2026-09-11 14:23:22</sys_created_on>
+        <sys_id>c08257ee85bed6e37f91aed8964977b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hauri Demo 3</sys_name>
+        <sys_package display_value="Hauri Demo 3" source="x_snc_hauri_demo_3">0a743c29e9134d9ba1c0599b6e701006</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Hauri Demo 3">0a743c29e9134d9ba1c0599b6e701006</sys_scope>
+        <sys_update_name>sys_aix_experience_c08257ee85bed6e37f91aed8964977b0</sys_update_name>
+        <sys_updated_by>tom.hauri</sys_updated_by>
+        <sys_updated_on>2026-09-11 14:23:22</sys_updated_on>
+        <theme display_value="hauri-demo-3">2fde476ae31dca9d821657e057d38cd1</theme>
+        <title>Hauri Demo 3</title>
+        <url_suffix>hauri-demo-3</url_suffix>
+    </sys_aix_experience>
+    <sys_translated_text action="delete_multiple" query="documentkey=c08257ee85bed6e37f91aed8964977b0"/>
+</record_update>
